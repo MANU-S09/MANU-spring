@@ -33,7 +33,6 @@ function toggleUser(){
     userGender.innerHTML = users[id].gender;
 
 }
-random user API  function to be written in index.js: 
 
 
 function randomUser(){
